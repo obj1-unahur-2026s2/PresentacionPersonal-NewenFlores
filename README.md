@@ -4,10 +4,11 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
-
+- Mi nombre es: *Newen Vargas Flores*
+- Vivo en: *Merlo*
+- Tengo 19 años
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Esta es la segunda vez que uso github para una materia, la primera fue "_taller web_", para hacer un trabajo grupal, donde teniamos que hacer una pagina web.
+- Tengo un gato que se llama *Loki*.
+- Espero promocionar la materia.
